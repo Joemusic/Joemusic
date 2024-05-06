@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/9PrqNHPAdWyJVOXntF/giphy.gif)
+
 <img src="https://media.giphy.com/media/9PrqNHPAdWyJVOXntF/giphy.gif" width="200" />
 <!--
 **Joemusic/Joemusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
