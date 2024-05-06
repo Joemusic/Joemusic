@@ -2,6 +2,8 @@
 
 <!--
 **Joemusic/Joemusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[!Alt text](https://giphy.com/gifs/moodman-woman-yelling-at-cat-a-women-WTL02R1L7YCGUEunFy)
+
 
 Here are some ideas to get you started:
 
