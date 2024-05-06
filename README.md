@@ -1,6 +1,6 @@
                                    ### Hi there 👋 ###
                               💝 💝 Thank you to follow  💝💝
-| GIF 1                | GIF 2                |
+| 01                | Meow               |
 |----------------------|----------------------|
 | <img src="https://media.giphy.com/media/9PrqNHPAdWyJVOXntF/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/iE4e5c8ExJUhdhvSiw/giphy.gif" width="200"> |
 
